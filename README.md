@@ -1,6 +1,7 @@
 # Machine_Learning_Algos
 
-**1. Adaboost **
+##1. Adaboost
 
 
-**2. Independent Component Analysis (ICA)*
+
+##2. Independent Component Analysis (ICA)

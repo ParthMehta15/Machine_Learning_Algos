@@ -2,7 +2,12 @@
 
 **1. Adaboost**
 
+Initialize AdaBoost class, pass no. of desired weak learners as the argument.
 
+```
+#Let us say we want 30 classifiers
+adaboost_model = AdaBoost(T = 30)
+```
 
 **2. Independent Component Analysis (ICA)**
 Can be used to seperate mixed signals (audio) into seperate signals.
